@@ -16,3 +16,27 @@
 | Random key           | `32-digit random code`  
 
 To download the Itaú app on your mobile device, go to [Play Store](https://play.google.com/store/games?device=phone) for Android devices or [App Store](https://www.apple.com/br/app-store/) for iOS devices.
+
+# MAKING A PIX TRANSFER  
+## Follow the steps below to complete a Pix transfer easily and securely.
+
+1. Open the Itaú app and access your account by entering your CPF or agency and account number.
+2. Go to the ***Pix Area*** menu.
+3. Tap the ***Make Transfer*** option.
+4. Select the ***New Transfer*** button.
+5. Choose the Pix key of the person or business you want to transfer money to.
+6. Enter the amount and any other necessary information (e.g., description or message).
+7. Confirm the details and tap ***Transfer***.
+
+### Example:
+
+- Recipient Pix key: `joao@chavepix.com`  
+- Amount: `R$ 100,00`  
+- Description: `Payment for services`
+
+To complete the transaction, review the details and tap ***Confirm***.
+
+If you want to cancel the transfer, tap ***Cancel*** before confirming.
+
+For more information, visit the [Play Store](https://play.google.com/store/games?device=phone) for Android or [App Store](https://www.apple.com/br/app-store/) for iOS devices.
+
